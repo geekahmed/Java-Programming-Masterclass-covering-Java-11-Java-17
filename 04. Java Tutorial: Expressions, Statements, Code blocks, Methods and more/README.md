@@ -1,1 +1,18 @@
 # Section 4: Java Tutorial: Expressions, Statements, Code blocks, Methods and more
+- Following are the different types of keywords in java
+    -   **Access modifiers**  − private, protected, public.
+    -   **Class, method, variable modifiers**− abstract, class, extends, final, implements, interface, native, new, static, strictfp, synchronized, transient, volatile.
+    -   **Flow control**− break, case, continue, default, do, else, for, if, instanceof, return, switch, while.
+    -   **Package control**− import, package.
+    -   **Primitive types**− boolean, byte, char, double, float, int, long, short.
+    -   **Error handling**− assert, catch, finally, throw, throws, try.
+    -   **Enumeration**− enum.
+    -   **Others**− super, this, void.
+    -   **Unused**− const, goto.
+- A method is a block of code or collection of statements or a set of code grouped together to perform a certain task or operation.
+- There are two types of methods in Java:
+    - Predefined Method: are the method that is already defined in the Java class libraries.
+    - User-defined Method: written by the user or programmer.
+- A method that belongs to a class rather than an instance of a class is known as a static method.
+- Overloaded methods are differentiated by the number and the type of the arguments passed into the method.
+- Overloaded methods should be used sparingly, as they can make code much less readable.

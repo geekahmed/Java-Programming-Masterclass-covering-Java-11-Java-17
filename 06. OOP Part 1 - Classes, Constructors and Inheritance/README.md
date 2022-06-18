@@ -1,1 +1,15 @@
 # Section 6: OOP Part 1 - Classes, Constructors and Inheritance
+- OOP stands for Object-Oriented Programming.
+- Procedural programming is about writing procedures or methods that perform operations on the data, while object-oriented programming is about creating objects that contain both data and methods.
+- Classes and objects are the two main aspects of object-oriented programming.
+- A class is a template for objects, and an object is an instance of a class.
+- When the individual objects are created, they inherit all the variables and methods from the class.
+- To create a class, use the keyword class.
+- To create an object from a class, use the keyword new.
+- Class attributes or class fields are the state of the class.
+- You can access attributes by creating an object of the class, and by using the dot syntax (.).
+-  A static method, which means that it can be accessed without creating an object of the class, unlike public, which can only be accessed by objects.
+- A constructor in Java is a special method that is used to initialize objects.
+- The constructor is called when an object of a class is created. It can be used to set initial values for object attributes.
+- The constructor name must match the class name, and it cannot have a return type (like void).
+- All classes have constructors by default: if you do not create a class constructor yourself, Java creates one for you. However, then you are not able to set initial values for object attributes.
